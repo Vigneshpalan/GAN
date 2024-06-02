@@ -1,6 +1,4 @@
-Creating a README file for your GitHub repository can be a crucial step in ensuring that users understand your project and can use it effectively. Here's a template for your README file based on the code you provided:
 
----
 
 # Fashion GAN
 
